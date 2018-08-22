@@ -21,6 +21,16 @@ public class GildedRoseTest {
         app.updateQuality();
         assertEquals("Sulfuras, Hand of Ragnaros", app.items[0].name);
         assertEquals(200,app.items[0].quality);
+        assertEquals(200,app.items[0].quality);
+        assertEquals(200,app.items[0].quality);
+        assertEquals(200,app.items[0].quality);
+        assertEquals(200,app.items[0].quality);
+        assertEquals(200,app.items[0].quality);
+        assertEquals(200,app.items[0].quality);
+        assertEquals(200,app.items[0].quality);
+        assertEquals(200,app.items[0].quality);
+        assertEquals(200,app.items[0].quality);
+        assertEquals(200,app.items[0].quality);
     }
 
 }
