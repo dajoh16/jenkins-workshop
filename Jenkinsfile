@@ -20,6 +20,9 @@ node {
        junit '**/target/surefire-reports/TEST-*.xml'
        archiveArtifacts artifacts: 'target/gildedrose-*.jar', onlyIfSuccessful: true
     }
+    stage("Publish"){
+       pretestedIntegrationPublisher()
+    }
     stage("Javadoc")
         echo 'I totally generated some Javadoc'
 }
