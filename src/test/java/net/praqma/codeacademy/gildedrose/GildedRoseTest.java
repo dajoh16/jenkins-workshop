@@ -30,7 +30,7 @@ public class GildedRoseTest {
         assertEquals(200,app.items[0].quality);
         assertEquals(200,app.items[0].quality);
         assertEquals(200,app.items[0].quality);
-        assertEquals(200,app.items[0].quality);
+        assertEquals(200,app.items[0].quality);//COMMENTS!!!!!!!!!
         assertEquals(200,app.items[0].quality);
     }
 
