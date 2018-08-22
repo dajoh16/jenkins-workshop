@@ -7,7 +7,7 @@ node {
             extensions: [[$class: 'CleanBeforeCheckout'], 
             pretestedIntegration(gitIntegrationStrategy: squash(), 
             integrationBranch: 'master', 
-            repoName: 'jenkins-workshop')], 
+            repoName: 'origin')], 
             submoduleCfg: [], 
             userRemoteConfigs: [[credentialsId: 'dajoh16', //remember to change credentials and url.
             url: 'git@github.com:dajoh16/jenkins-workshop.git']]])
