@@ -22,6 +22,7 @@ node {
     stage("Publish"){
        pretestedIntegrationPublisher()
     }
-    stage("Javadoc")
+    stage("Javadoc"){}
         echo 'I totally generated some Javadoc'
+}
 }
