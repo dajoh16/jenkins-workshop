@@ -1,0 +1,1353 @@
+[33mcommit 7bd1c9476b0f76e365534e3ab88b567809951295[m[33m ([m[1;36mHEAD -> [m[1;32mready/newfeature[m[33m)[m
+Author: Daniel <dajoh16@student.sdu.dk>
+Date:   Wed Aug 22 12:26:00 2018 +0200
+
+    Revert "something awkward"
+    
+    This reverts commit 35b5632e04d0cf1b3131c330a3f5593cfcb5f9cd.
+
+[33mcommit f6609592c1d965872526192be518ce40f660140f[m[33m ([m[1;31morigin/ready/newfeature[m[33m)[m
+Author: Daniel <dajoh16@student.sdu.dk>
+Date:   Wed Aug 22 12:20:03 2018 +0200
+
+    500K NEW LINES
+
+[33mcommit 35b5632e04d0cf1b3131c330a3f5593cfcb5f9cd[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Daniel <dajoh16@student.sdu.dk>
+Date:   Wed Aug 22 11:44:29 2018 +0200
+
+    something awkward
+
+[33mcommit e66b6b752193cf52e467a9b0a9d285255618cb1d[m
+Author: Daniel <dajoh16@student.sdu.dk>
+Date:   Wed Aug 22 11:42:05 2018 +0200
+
+    jenkin file is shite
+
+[33mcommit e4d9407302238a3d923c011587f96c6c0f51b8b5[m
+Author: Daniel <dajoh16@student.sdu.dk>
+Date:   Wed Aug 22 11:31:33 2018 +0200
+
+    jenkins ew
+
+[33mcommit 73a2b005b72b9a06ee134d89a93c6d55ade7f862[m
+Author: Daniel <dajoh16@student.sdu.dk>
+Date:   Wed Aug 22 11:29:21 2018 +0200
+
+    Test jenkinsfile
+
+[33mcommit 5df40f1f2a6443534a1e5196ccc89b7f7a4c6a05[m
+Author: Daniel <dajoh16@student.sdu.dk>
+Date:   Wed Aug 22 11:08:36 2018 +0200
+
+    Jenkinsfile Update
+
+[33mcommit 2cbcfdf3a6331d99c9971bb33ca476c6974cbf88[m
+Author: Daniel <dajoh16@student.sdu.dk>
+Date:   Wed Aug 22 11:04:47 2018 +0200
+
+    Pre Tested Integration Jenkinsfile
+
+[33mcommit 193de22998db2d49154e0d8c087cf6bdaa40b9ea[m
+Author: Daniel <dajoh16@student.sdu.dk>
+Date:   Wed Aug 22 10:52:47 2018 +0200
+
+    Testing Multibranch Pipeline
+
+[33mcommit bd73eccbbb908a9c44eff5e99eae0dd63f9f8161[m
+Author: Daniel <dajoh16@student.sdu.dk>
+Date:   Wed Aug 22 10:48:46 2018 +0200
+
+    JenkinsFile Version
+
+[33mcommit fe3d3dfe9864ec04373c2a140492fa459822bbb4[m
+Author: Daniel <dajoh16@student.sdu.dk>
+Date:   Wed Aug 22 09:56:29 2018 +0200
+
+    A Test that doesn't fail anymore
+
+[33mcommit c52974de9de4e7c30b344126c492d00ef524dbcf[m
+Author: Daniel <dajoh16@student.sdu.dk>
+Date:   Wed Aug 22 09:53:59 2018 +0200
+
+    A Test that totally doesn't fail
+
+[33mcommit 9ee0cefafbef92a1566df455f31d1abbe2563b2a[m
+Author: Daniel <dajoh16@student.sdu.dk>
+Date:   Wed Aug 22 09:40:04 2018 +0200
+
+    Fix test
+
+[33mcommit 1b6bbdf52e58c87e465fb598a41684d75e7ee26a[m
+Author: Daniel <dajoh16@student.sdu.dk>
+Date:   Wed Aug 22 09:33:16 2018 +0200
+
+    Comment out Test
+
+[33mcommit 531bf05b28cddfcc7fd512d00ba55c1eb3503fa8[m
+Author: Sofus Albertsen <soa@praqma.net>
+Date:   Thu Aug 16 09:40:06 2018 +0200
+
+    adding sleep to setup
+
+[33mcommit 6d8a65cf74be6d4dcf21589be0e0c83b051f2496[m
+Author: Sofus Albertsen <soa@praqma.net>
+Date:   Thu Aug 16 09:20:14 2018 +0200
+
+    set sh to executable and added note to readme
+
+[33mcommit 115c51c422e6efee0a1c7e5927465d5297bb210d[m
+Author: Sofus Albertsen <soa@praqma.net>
+Date:   Thu Aug 16 09:16:35 2018 +0200
+
+    added readme for the setup
+
+[33mcommit fbccd472c4a2042537b170ffe0b73a79521bba32[m
+Merge: 0ad79ae dd05e73
+Author: Sofus Albertsen <soa@praqma.net>
+Date:   Thu Aug 16 09:13:54 2018 +0200
+
+    Merge branch 'master' of github.com:praqma-training/jenkins-workshop
+
+[33mcommit 0ad79ae6e4a220cdfb69705f488056bdfe787912[m
+Author: Sofus Albertsen <soa@praqma.net>
+Date:   Thu Aug 16 09:13:26 2018 +0200
+
+    Made a setup script that installs jenkins on the server
+
+[33mcommit dd05e73d7e6fc52036c264445b1e8b733dc0e261[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Thu Aug 9 10:19:44 2018 +0200
+
+    Update README.md
+
+[33mcommit 177c2a023e7d272153c5b7ec01b78d6f94b4c83e[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Thu Aug 9 10:11:45 2018 +0200
+
+    Update README.md
+
+[33mcommit 7b7d8bf9d8ce39a079ea99ddf1739f1d66b48de4[m
+Author: Sofus Albertsen <soa@praqma.net>
+Date:   Thu Jun 28 16:35:42 2018 +0200
+
+    New structure #12
+
+[33mcommit 5fc238f644bda9898b703805ef28ed0442ebdd4f[m
+Author: Sofus Albertsen <soa@praqma.net>
+Date:   Wed Jun 27 15:08:09 2018 +0200
+
+    started making PIP exercise  #15
+
+[33mcommit 2e6d24a9f0a261582e74f075d17559111fe1d88b[m
+Merge: 68d9120 7ea527e
+Author: Jan Krag <jankrag@gmail.com>
+Date:   Tue Dec 5 15:18:25 2017 +0100
+
+    Merge pull request #19 from JKrag/fix_url
+    
+    fixed path to TestFixture.java
+
+[33mcommit 7ea527e9fccc2248fd57dcf59f11000bf542b041[m
+Author: Jan Krag <jankrag@gmail.com>
+Date:   Tue Dec 5 15:14:10 2017 +0100
+
+    fixed path to TestFixture.java
+
+[33mcommit 68d91203ce523914a4c0b4d85538c70bb91d83c1[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Thu Aug 31 14:38:49 2017 +0200
+
+    Fixed structure ref in 4.5
+    
+    Fixes https://github.com/praqma-training/docker-exercises/issues/17
+
+[33mcommit 95ffced0bd6b5ec3bc8d42ace059a7476f216ed9[m
+Author: Johan Abildskov <randomsort@gmail.com>
+Date:   Fri Aug 18 12:24:03 2017 +0200
+
+    Clarify step -> stage
+
+[33mcommit 53b429af7237a774877babbcbfc5612d1f2c2a4e[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Thu Aug 10 06:09:21 2017 +0200
+
+    Update GildedRoseTest.java
+
+[33mcommit 051d04d6f5b46750366578eb7c897224cc33f42a[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Thu Aug 10 06:08:34 2017 +0200
+
+    Update Jenkinsfile
+
+[33mcommit 50b52826473d182f93ef5203f4858504b712226d[m
+Merge: ff5471b 758f9c4
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Thu Aug 10 06:07:03 2017 +0200
+
+    Merge branch 'master' into master
+
+[33mcommit 758f9c407ff0107da692bef361ebec02a0a55e8f[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Wed Aug 9 15:13:32 2017 +0200
+
+    Update GildedRoseTest.java
+
+[33mcommit 3e452adf2db48abc1008aaa5aa160633ca96f053[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Wed Aug 9 15:11:38 2017 +0200
+
+    Update GildedRoseTest.java
+
+[33mcommit 4018b01326220eb312c3b74e6eaebfc950e1568b[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Wed Aug 9 15:09:37 2017 +0200
+
+    Update Jenkinsfile
+
+[33mcommit 96c3d2154054173b292c0b1316e4f8d4ee0bd98b[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Wed Aug 9 15:06:00 2017 +0200
+
+    Update Jenkinsfile
+
+[33mcommit 4de1949d99e7358f35a7cb0e6230ebe125e7feb7[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Wed Aug 9 14:55:12 2017 +0200
+
+    Update Jenkinsfile
+
+[33mcommit 5599e57514d45e493c3ec9fda448558833a3e2cb[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Wed Aug 9 14:42:35 2017 +0200
+
+    made gilded rose pass
+
+[33mcommit ff5471bfe07194d0f5d8d099744764f9432e018c[m
+Author: Michael Frikke Madsen <mibias.madsen@gmail.com>
+Date:   Wed Aug 9 12:59:39 2017 +0200
+
+    Added exercise 8 - dockerize this
+
+[33mcommit 82c1fc665ffb63f080075a8764fb9f5cffb6068f[m
+Merge: fca81dd cd2ea9e
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Tue Aug 8 22:30:15 2017 +0200
+
+    Merge pull request #9 from praqma-training/additions
+    
+    refactored the day 2 execises
+
+[33mcommit fca81dd9be6c40ca71acf2e031427d3bc7c8034a[m
+Merge: ef0bb2c 6f1fdd4
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Tue Aug 8 22:29:29 2017 +0200
+
+    Merge pull request #8 from meekrosoft/docker
+    
+    Add jenkins to docker group instructions
+
+[33mcommit cd2ea9e6767b548c783a802f14b87cc4f4a587fd[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Tue Aug 8 21:17:59 2017 +0200
+
+    refactored the day 2 execises
+
+[33mcommit 6f1fdd45b12789df8610e3ca448e0791a0b4ff69[m
+Author: Mike Long <mike@praqma.com>
+Date:   Tue Aug 8 21:11:45 2017 +0200
+
+    Add jenkins to docker group instructions
+
+[33mcommit ef0bb2c9009fe7762286c3c1ac43363c8ed72c81[m
+Merge: aa108a2 b119f86
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Tue Aug 8 21:10:27 2017 +0200
+
+    Merge pull request #7 from meekrosoft/docker
+    
+    Changed initial setup to docker in README
+
+[33mcommit b119f86989475830d519d65e5c0ca5ef78a1a173[m
+Author: Mike Long <mike@praqma.com>
+Date:   Tue Aug 8 20:58:14 2017 +0200
+
+    Changed initial setup to docker in README
+    
+    Removed jdk installation on the host, updated
+
+[33mcommit aa108a2dbc6b028c10ca13619a43fe1b9e565d79[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Tue Aug 8 19:59:48 2017 +0200
+
+    Update Jenkinsfile
+
+[33mcommit a285f9690f20abd4da09d216f12a09044e3a3229[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Tue Aug 8 14:01:25 2017 +0200
+
+    Made an overview in the README.md
+
+[33mcommit d01e9312b8d9e9c8d0bb05e4936f546c2e3c165d[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Tue Aug 8 12:29:09 2017 +0200
+
+    erratta
+
+[33mcommit ad369158b24361c9bfc94a7f353819478c27f4f2[m
+Merge: a1f2a09 10c36ff
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Tue Aug 8 11:05:12 2017 +0200
+
+    Merge pull request #3 from praqma-training/ready/2-proofread-exercise
+    
+    close #2 proofread exercise
+
+[33mcommit 10c36ffc2bbc943a750da10c63e92125f5ab6b2f[m
+Author: Johan Abildskov <jabildskov@grundfos.com>
+Date:   Mon Aug 7 09:05:53 2017 +0200
+
+    close #2 proofread exercise
+
+[33mcommit a1f2a09b962b1eb58cfd508b2647f50e299691f2[m
+Author: Nicolaj Græsholt <figaw@hotmail.com>
+Date:   Sun Aug 6 22:18:03 2017 +0200
+
+    Update README.md
+    
+    fix typo
+
+[33mcommit 1af4721966efb207e923dc9cb9800e8c10f42def[m
+Author: Nicolaj Græsholt <figaw@hotmail.com>
+Date:   Sun Aug 6 18:46:41 2017 +0200
+
+    Update README.md
+    
+    fix typo, linkify links.
+
+[33mcommit d1e4d37547f5a15efe8e190dcffe4d9af7e8cb86[m
+Merge: 73c1e79 ae5d4ae
+Author: Nicolaj Græsholt <figaw@hotmail.com>
+Date:   Sun Aug 6 18:43:11 2017 +0200
+
+    Merge pull request #1 from praqma-training/jenkins-advanced
+    
+    Jenkins advanced
+
+[33mcommit ae5d4aec0b3dfee2be3e44e0ccd528efc9539225[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Sat Aug 5 12:18:24 2017 +0200
+
+    Update Jenkinsfile
+
+[33mcommit b0363c2316a1b93469b4f147776ac8c032041010[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Sat Aug 5 12:14:32 2017 +0200
+
+    Update README.md
+
+[33mcommit 7e483cd341252abb7b62fa0fd2d7947c0e1fa994[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Sat Aug 5 11:58:37 2017 +0200
+
+    Update README.md
+
+[33mcommit 1e215ef2ffcbbbe1d3089ea4aba4e0b91098f52b[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Sat Aug 5 11:31:01 2017 +0200
+
+    Update README.md
+
+[33mcommit 73c1e795ed78c9426aabc16583186ae2426c5741[m
+Author: Nicolaj 'Figaw' Græsholt <ng@praqma.net>
+Date:   Fri Aug 4 16:04:37 2017 +0200
+
+    add iteration to readme
+
+[33mcommit 83e6c9b08a30189dd00d9842ade09e5294b9afa4[m
+Author: Nicolaj 'Figaw' Græsholt <ng@praqma.net>
+Date:   Fri Aug 4 15:46:35 2017 +0200
+
+    change readme, move files around, finish exercise documentation
+
+[33mcommit 7ab952b9e2c0be62751a444b87dd81e948dbba52[m
+Author: Nicolaj 'Figaw' Græsholt <ng@praqma.net>
+Date:   Fri Aug 4 15:13:24 2017 +0200
+
+    removed langs
+
+[33mcommit 5c4a646513c68be2729ac9c61b2c44d245302c6a[m
+Merge: 26fa240 879345f
+Author: Nicolaj 'Figaw' Græsholt <ng@praqma.net>
+Date:   Fri Aug 4 15:11:07 2017 +0200
+
+    Merge branch 'master' of github.com:praqma-training/gildedrose
+
+[33mcommit 26fa24072924f13a468c3349f3e1e3eb3dcf8149[m
+Author: Nicolaj 'Figaw' Græsholt <ng@praqma.net>
+Date:   Fri Aug 4 15:10:53 2017 +0200
+
+    remove multiple langs, made java target, pom in progress
+
+[33mcommit 879345f5acdcd26a7ffe7c1902ef9988c12f42f9[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Thu Aug 3 17:19:37 2017 +0200
+
+    Updated jenkinsfile to the newest version
+
+[33mcommit b2d9497b1f95b908923015112ab7974bad53bab2[m
+Author: Nicolaj 'Figaw' Græsholt <ng@praqma.net>
+Date:   Thu Aug 3 17:06:09 2017 +0200
+
+    add note about maven installation in jenkins
+
+[33mcommit 2005bd7289f6735d91140372c9d2654a25868929[m
+Author: Nicolaj 'Figaw' Græsholt <ng@praqma.net>
+Date:   Thu Aug 3 16:55:42 2017 +0200
+
+    add removed files..
+
+[33mcommit ed4003e480dff77e3888d5f92bffda47fd5ff1bf[m
+Author: Nicolaj 'Figaw' Græsholt <ng@praqma.net>
+Date:   Thu Aug 3 16:54:07 2017 +0200
+
+    fix maven poms and readme
+
+[33mcommit cfe893f2ed475e766170ef5fc3e4fbff6fbb61b2[m
+Author: Nicolaj 'Figaw' Græsholt <ng@praqma.net>
+Date:   Thu Aug 3 16:13:49 2017 +0200
+
+    fix typo
+
+[33mcommit c41624dd5ad5b5ca61b30693bff8233f49a2b9fe[m
+Author: Nicolaj 'Figaw' Græsholt <ng@praqma.net>
+Date:   Thu Aug 3 15:34:21 2017 +0200
+
+    fix typos
+
+[33mcommit fd3ae699b901dbff2a25e35f8b197d906f97ba80[m
+Author: Nicolaj 'Figaw' Græsholt <ng@praqma.net>
+Date:   Thu Aug 3 15:26:27 2017 +0200
+
+    update exercise part 0, 0.5
+
+[33mcommit 06344e7eb74250449756084692ce55c4e701ce7d[m
+Author: Nicolaj Græsholt <figaw@hotmail.com>
+Date:   Wed Aug 2 15:17:20 2017 +0200
+
+    Update README.md
+
+[33mcommit 4cad1ce5a16992ccced43ca257ce6100e8369ff8[m
+Merge: 267f1cb 2e11822
+Author: Nicolaj 'Figaw' Græsholt <ng@praqma.net>
+Date:   Wed Aug 2 15:13:43 2017 +0200
+
+    merge with gildedrose kata repo. begin writing assignment
+
+[33mcommit 267f1cb54eca3e7530d9c3157c7e8db74fe2c364[m
+Author: Nicolaj 'Figaw' Græsholt <ng@praqma.net>
+Date:   Wed Aug 2 14:57:39 2017 +0200
+
+    change romannumeral in files to gildedrose
+
+[33mcommit 2e118223cb532598dad00037999775a7bea70e03[m
+Merge: c60e86a 52e4b9a
+Author: Emily Bache <emily.bache@praqma.com>
+Date:   Mon Jul 31 08:48:39 2017 +0200
+
+    Merge pull request #62 from y0m0/master
+    
+    Fix TexttestFixture
+
+[33mcommit c60e86a0265c47a8b646a7c3738f0e2c3cfc342e[m
+Merge: 35adddd a5309b3
+Author: Emily Bache <emily.bache@praqma.com>
+Date:   Fri Jul 28 09:18:48 2017 +0200
+
+    Merge pull request #64 from cono/master
+    
+    Add Perl6 version
+
+[33mcommit 35adddd1dd6a5f35db8980558970b56a98bbbe24[m
+Merge: c3dfc5b 842cc81
+Author: Emily Bache <emily.bache@praqma.com>
+Date:   Fri Jul 28 09:17:48 2017 +0200
+
+    Merge pull request #63 from kewersonhugo/patch-1
+    
+    Add the brazilian portuguese translation
+
+[33mcommit c3dfc5baf3512a73296029cc3650781110ce7bf5[m
+Merge: de471eb 34c9b0b
+Author: Emily Bache <emily.bache@praqma.com>
+Date:   Fri Jul 28 09:15:51 2017 +0200
+
+    Merge pull request #61 from hdennen/master
+    
+    fix(js and ts): spec typo
+
+[33mcommit a5309b3230b957cb0ee672b6d44f38ef63302b27[m
+Author: cono <q@cono.org.ua>
+Date:   Fri Jul 14 16:27:14 2017 +0300
+
+    Add Perl6 version
+
+[33mcommit 842cc81eb244e48b7753c97bb4479d5a83097a89[m
+Author: Kewerson Hugo <kewerson.hugo@gmail.com>
+Date:   Thu Jul 13 18:46:22 2017 -0300
+
+    Update GildedRoseRequirements_pt-BR.md
+
+[33mcommit 03834be1cae373438d6903da1f69bf77b3b92ff5[m
+Author: Kewerson Hugo <kewerson.hugo@gmail.com>
+Date:   Thu Jul 13 18:29:44 2017 -0300
+
+    Add the brazilian portuguese translation
+
+[33mcommit 52e4b9aeff1569db9106867fae7ec34e3bedd112[m
+Author: y0m0 <lixi.daniele@gmail.com>
+Date:   Wed Jul 12 22:23:26 2017 +0100
+
+    Fix TexttestFixture
+    - broken after last commit which updates gilded_rose.js to use ES2015 class syntax
+    - creates instance of class Shop
+    - creates items array
+    - updates showItemsFor
+
+[33mcommit 34c9b0bbcac8bac0946d1ec49061614dd7649eb5[m
+Author: Harry Dennen <hdennen@gmail.com>
+Date:   Thu Jul 6 10:16:37 2017 +0200
+
+    fix(js and ts): typo
+    
+    - 'gilged' to 'gilded' in respective specs
+
+[33mcommit de471eb175f96fc454f404c2f71185dbcf047c29[m
+Merge: e046dba 10346b6
+Author: Emily Bache <emily.bache@praqma.com>
+Date:   Fri Jun 30 19:42:43 2017 +0200
+
+    Merge pull request #60 from paucls/add-typescript
+    
+    Added GildedRose for TypeScript
+
+[33mcommit 10346b66c81eda2879a9893ef02fbb4ecbf4a6c6[m
+Author: Paulo Clavijo Esteban <paucls@gmail.com>
+Date:   Fri Jun 30 17:21:55 2017 +0100
+
+    Added GildedRose for TypeScript
+
+[33mcommit 99eee85d010f19d6a44fd6eb0904e48835cc582d[m
+Author: Sofus Albertsen <soa@praqma.net>
+Date:   Wed Jun 14 16:05:29 2017 +0200
+
+    added a new test
+
+[33mcommit 332adc123b956840d4531d5ebf91d56344b5f1a7[m
+Author: Sofus Albertsen <soa@praqma.net>
+Date:   Wed Jun 14 16:02:10 2017 +0200
+
+    made a change to README
+
+[33mcommit 0697058e9041a4e3641f9b211feda789d3d0f5a6[m
+Author: Sofus Albertsen <soa@praqma.net>
+Date:   Wed Jun 14 15:57:59 2017 +0200
+
+    started the pipeline exercise
+
+[33mcommit 916ce2134992a4c6b43d5f9fae142e1d4b276c41[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Wed Jun 14 15:51:41 2017 +0200
+
+    Create Jenkinsfile
+
+[33mcommit 53478b8c01f505fbe79d8986e3c42db6518ec1e2[m
+Author: Sofus Albertsen <soa@praqma.net>
+Date:   Wed Jun 14 15:45:02 2017 +0200
+
+    added Jenkinsfile
+
+[33mcommit cb1fa786aad077903c3ed92d6ecf28580af8e590[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Tue Jun 13 11:22:10 2017 +0200
+
+    Create README.md
+
+[33mcommit c0737e251e7bc8b94e648b66ccaedf6a2c7fcabc[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Mon Jun 12 23:35:19 2017 +0200
+
+    Create README.md
+
+[33mcommit b858e623b03cb22ca944fc00bbc7c399d5e53c64[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Mon Jun 12 23:23:15 2017 +0200
+
+    Create README.md
+
+[33mcommit 8082a6271de030726a17e67e43eb25be5aed16c2[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Mon Jun 12 23:06:35 2017 +0200
+
+    Create README.md
+
+[33mcommit 94ca2473f084c804aec50945e022e2d4102862d1[m
+Author: Sofus Albertsen <soa@praqma.net>
+Date:   Mon Jun 12 22:56:21 2017 +0200
+
+    commented out the test that broke the build
+
+[33mcommit 33bbcd52b8461498d3f6a95400faf59282e22dbe[m
+Author: Sofus Albertsen <soa@praqma.net>
+Date:   Mon Jun 12 22:51:38 2017 +0200
+
+    new test
+
+[33mcommit ce3f915c74c280041a7be7f3c518ab58e74c9493[m
+Author: Sofus Albertsen <sofusalbertsen@users.noreply.github.com>
+Date:   Mon Jun 12 22:49:08 2017 +0200
+
+    Create README.md
+
+[33mcommit 3aae1da4a3e8596ab1ff1b44b029c1935e04727a[m
+Author: Sofus Albertsen <soa@praqma.net>
+Date:   Mon Jun 12 22:30:32 2017 +0200
+
+    initial commit
+
+[33mcommit e046dba7637a77f54d6109b516d9ef6ef4b50bf4[m
+Merge: 62276f5 c359f75
+Author: Emily Bache <emily.bache@praqma.com>
+Date:   Tue Jun 6 21:15:37 2017 +0200
+
+    Merge pull request #59 from usr42/fix_java_cyber-dojo_link
+    
+    Fix cyber dojos
+
+[33mcommit c359f755c8bde6fe3fd4adcbd784962f1a772d90[m
+Author: Balthasar Biedermann <usr42@users.noreply.github.com>
+Date:   Tue Jun 6 23:58:48 2017 +0700
+
+    Fix Cucumber, Java cyber-dojo
+
+[33mcommit c97e1600e5f9c60107e42e5f693bc355042de25d[m
+Author: Balthasar Biedermann <usr42@users.noreply.github.com>
+Date:   Tue Jun 6 23:44:08 2017 +0700
+
+    Fix C# cyber-dojo
+
+[33mcommit fc22086f3ee43b4e996da1887796ac7c0329cbab[m
+Author: Balthasar Biedermann <usr42@users.noreply.github.com>
+Date:   Tue Jun 6 23:37:24 2017 +0700
+
+    Fix JUnit/Java cyber-dojo
+    
+    The cyber-dojo.org java kata was broken, Probably because of an upgraded java or junit. I updated the cyber-dojo.sh and fixed the link in the README.md to use the new version.
+
+[33mcommit 62276f5f0f40fa66f91bfb3a6678e62ef82e9885[m
+Author: emilybache <emily.bache@praqma.com>
+Date:   Fri May 12 11:51:16 2017 +0200
+
+    tweaked formatting
+
+[33mcommit f76aff16c07a90fea6deb2a93b95e32522e3e64f[m
+Author: emilybache <emily.bache@praqma.com>
+Date:   Fri May 12 11:50:14 2017 +0200
+
+    added better code hub badge to readme file
+
+[33mcommit 7613d0b921cd5dc59ea3aef8f605da9fee97aa05[m
+Author: emilybache <emily.bache@praqma.com>
+Date:   Fri May 12 11:29:38 2017 +0200
+
+    adding config file for bettercodehub so I can see how many refactoring targets it finds in this repo
+
+[33mcommit 6ce24af34c3bf9475880730bf3b622174451eb9e[m
+Merge: e916fdd a856177
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Wed Mar 15 13:43:11 2017 +0100
+
+    Merge pull request #58 from ClayDowling/clean-start
+    
+    C99 Version
+
+[33mcommit a8561778e964503223816ed1f9eb81d7bee69d73[m
+Author: Clay Dowling <clay@lazarusid.com>
+Date:   Mon Mar 13 21:30:37 2017 -0400
+
+    Added C99 Solution
+
+[33mcommit 45733a51292d5a903eb88d50d2c845c63e054636[m
+Author: Clay Dowling <clay@lazarusid.com>
+Date:   Mon Mar 13 21:28:39 2017 -0400
+
+    Removed troublesome folder
+
+[33mcommit 722d8f2bb1ba3f264e84add8c3557318aefef318[m
+Author: Clay Dowling <clay@lazarusid.com>
+Date:   Mon Mar 13 17:49:36 2017 -0400
+
+    Removed files that didn't belong in version control
+
+[33mcommit 3200f2e36ce743d7d63ad8ee154234e7454fd242[m
+Author: Clay Dowling <clay@lazarusid.com>
+Date:   Mon Mar 13 17:48:12 2017 -0400
+
+    Reverted files to a useful starting point
+
+[33mcommit 20178c8026cea61792d15655b63adba9b24a6ac7[m
+Author: Clay Dowling <clay@lazarusid.com>
+Date:   Sat Mar 11 09:06:34 2017 -0500
+
+    Updated documentation and made Makefile easier for inexperienced C devs
+
+[33mcommit 264ed0c974e68c4167847bf372f86d401d90ee72[m
+Author: Clay Dowling <clay@lazarusid.com>
+Date:   Fri Mar 10 22:42:52 2017 -0500
+
+    Tests for backstage passes
+
+[33mcommit ceebe400c9aa7dfd0315ef5adf30135ec161f5e9[m
+Author: Clay Dowling <clay@lazarusid.com>
+Date:   Fri Mar 10 22:26:15 2017 -0500
+
+    Added tests for backstage pass
+
+[33mcommit 19dcacbf7e3ea4651c8bf2362cad5439ebde92c9[m
+Author: Clay Dowling <clay@lazarusid.com>
+Date:   Fri Mar 10 21:53:40 2017 -0500
+
+    Added test for zero
+
+[33mcommit 38857a8dc9195707365d46340e5dd82d35a09738[m
+Author: Clay Dowling <clay@lazarusid.com>
+Date:   Fri Mar 10 21:52:33 2017 -0500
+
+    Test for normal items with SellIn less than zero
+
+[33mcommit cdb407461b7809771ff245759e5a27d4146c0584[m
+Author: Clay Dowling <clay@lazarusid.com>
+Date:   Fri Mar 10 21:50:17 2017 -0500
+
+    Added tests for aged brie
+
+[33mcommit 438a5d661286daedfc44239fa996c6e09bac1f21[m
+Author: Clay Dowling <clay@lazarusid.com>
+Date:   Fri Mar 10 21:39:08 2017 -0500
+
+    Actually rename the test suite
+
+[33mcommit 08cf17d6bcf9d2e0dba557632dd38d27d5548051[m
+Author: Clay Dowling <clay@lazarusid.com>
+Date:   Fri Mar 10 21:31:09 2017 -0500
+
+    Renamed to reflect actual contents
+
+[33mcommit fe0cad5a7276279d385fd5c7a69997d45efed129[m
+Author: Clay Dowling <clay@lazarusid.com>
+Date:   Fri Mar 10 21:24:09 2017 -0500
+
+    Second test, normal item below zero
+
+[33mcommit ccabf6e847702278099fa18811621c287e16df05[m
+Author: Clay Dowling <clay@lazarusid.com>
+Date:   Fri Mar 10 21:22:50 2017 -0500
+
+    First check for normal items
+
+[33mcommit c01ba7bc7f9c54e5a17ddc28dfeedc2e5ad6a48b[m
+Author: Clay Dowling <clay@lazarusid.com>
+Date:   Fri Mar 10 21:21:59 2017 -0500
+
+    First check for normal items
+
+[33mcommit 26a1251a61cb53f3b62a61e1ea481d86ea0b1483[m
+Author: Clay Dowling <clay@lazarusid.com>
+Date:   Fri Mar 10 21:16:02 2017 -0500
+
+    Added test against changing Item
+
+[33mcommit 51b045bc1c3dce3dc632f39cc6232b6effb0ef20[m
+Author: Clay Dowling <clay@lazarusid.com>
+Date:   Fri Mar 10 21:13:06 2017 -0500
+
+    Added golden rule test
+
+[33mcommit 963b876133f4e26eb7f9c25d0ff6aabe25a4dc02[m
+Author: Clay Dowling <clay@lazarusid.com>
+Date:   Fri Mar 10 21:08:31 2017 -0500
+
+    Removed binary that didn't belong here to begin with
+
+[33mcommit d4c62eb984d273f27d8b4023d9267045cc07e25a[m
+Author: Clay Dowling <clay@lazarusid.com>
+Date:   Fri Mar 10 19:51:08 2017 -0500
+
+    Updated docs, removed binaries
+
+[33mcommit a114047f8310a8b6f611add66db1f5f5848b7a50[m
+Author: Clay Dowling <clay@lazarusid.com>
+Date:   Fri Mar 10 19:47:41 2017 -0500
+
+    Updated README to address some specifics of this version of the test
+
+[33mcommit b635adc09661d3dbf27607e6423d0fd10cfd7f2c[m
+Author: Clay Dowling <clay@lazarusid.com>
+Date:   Fri Mar 10 19:41:06 2017 -0500
+
+    Added starting files for check unit tests
+
+[33mcommit 96d9751300a02dc3d6f4dbb6fdaa129a0e397ae3[m
+Author: Clay Dowling <clay@lazarusid.com>
+Date:   Fri Mar 10 19:22:12 2017 -0500
+
+    Added C and check library version
+
+[33mcommit e916fdd8ace35437a5d873547c3ae81f576fe1ab[m
+Merge: f453de3 267e411
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Tue Feb 14 09:10:49 2017 +0100
+
+    Merge pull request #56 from dbuschman7/master
+    
+    upgraded Scala version to latest versions
+
+[33mcommit f453de354f5409e4e6f975d024d2e023902fc152[m
+Merge: 9bbf107 e9aae0d
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Tue Feb 14 09:09:45 2017 +0100
+
+    Merge pull request #55 from sminutoli/feature/updates-js-example
+    
+    Updates examples using ES2015 class syntax
+
+[33mcommit 9bbf107b0cb4b11e7bc82d9945c44a4b0c687bd4[m
+Merge: bc02197 2f38071
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Tue Feb 14 09:07:52 2017 +0100
+
+    Merge pull request #54 from sminutoli/feature/spanish-requeriments
+    
+    Adds the spanish translation
+
+[33mcommit 267e4112c4c1cd9a3d0bb897e1233d1560086959[m
+Author: David Buschman <david.buschman@timeli.io>
+Date:   Sat Feb 11 00:05:48 2017 -0700
+
+    upgraded Scala version to latest versions
+
+[33mcommit 2f38071debcada8b6be1466386c2ea60703edc74[m
+Author: Sergio Minutoli <sergio.minutoli@etermax.com>
+Date:   Fri Feb 10 17:52:26 2017 -0300
+
+    Adds the spanish translation
+
+[33mcommit e9aae0d7dbafee71b8bbad16caf325d4f76be932[m
+Author: Sergio Minutoli <sergio.minutoli@etermax.com>
+Date:   Fri Feb 10 18:02:15 2017 -0300
+
+    Updates examples using ES2015 class syntax
+
+[33mcommit bc021978c01ffb77ec261ad4a14c4b5287c571a6[m
+Merge: a0fb147 5605173
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Sat Jan 14 09:04:01 2017 +0100
+
+    Merge pull request #52 from tonvanbart/master
+    
+    Revert GildedRose.java to original code
+
+[33mcommit 560517343930acab681120036de59a041f879174[m
+Author: Ton van Bart <tonvanbart@gmail.com>
+Date:   Wed Jan 11 21:32:08 2017 +0100
+
+    reverted GildedRose to original code
+
+[33mcommit b2422cf733fca9803188a7c8f42e7bc5bf63c391[m
+Author: Ton van Bart <tonvanbart@gmail.com>
+Date:   Mon Jan 9 22:38:54 2017 +0100
+
+    delete package with weird name
+
+[33mcommit d4b3a30334dd68ea689e43e26f7d2b105bfbc492[m
+Author: Ton van Bart <tonvanbart@gmail.com>
+Date:   Mon Jan 9 22:31:26 2017 +0100
+
+    delete package with weird name
+
+[33mcommit a0fb14740265915b2e6ae2dbb5c9d3240b2526b0[m
+Merge: 6d7caf2 2d353e1
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Mon Dec 5 19:42:18 2016 +0100
+
+    Merge pull request #51 from kiview/fix-java-directories
+    
+    Remove duplicate Java classes
+
+[33mcommit 2d353e1da943383df63c60e34d64354b3d2c3eb3[m
+Author: Kevin Wittek <kevin.wittek@styracosoft.de>
+Date:   Mon Dec 5 14:57:59 2016 +0100
+
+    Remove duplicate Java classes
+
+[33mcommit 6d7caf22dd70d5d972aa465e5ce99ac21cda9c20[m
+Merge: 836a60e 260dc83
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Thu Dec 1 19:19:16 2016 +0100
+
+    Merge pull request #50 from tonvanbart/master
+    
+    Made 'java' subproject maven managed
+
+[33mcommit 260dc830998d38aaf5961a0e464fdde563a42cb1[m
+Author: Ton van Bart <tonvanbart@gmail.com>
+Date:   Thu Dec 1 10:47:47 2016 +0100
+
+    use java.version property in pom.xml
+
+[33mcommit 40e7ea75c6dc121b0e1ebbf60ca6cffba5ccd819[m
+Author: Ton van Bart <tonvanbart@gmail.com>
+Date:   Thu Dec 1 09:45:34 2016 +0100
+
+    fixed directory structure
+
+[33mcommit dae358a1314ad3418687a57f5af0e8a80e17456d[m
+Author: Ton van Bart <tonvanbart@gmail.com>
+Date:   Thu Dec 1 09:37:05 2016 +0100
+
+    added Eclipse files to .gitignore
+
+[33mcommit 62b3b2fdb9a68e6cef917cc8eb70f9fa9ef5fcef[m
+Author: Ton van Bart <tonvanbart@gmail.com>
+Date:   Tue Nov 29 12:40:59 2016 +0100
+
+    added IDEA project files to gitignore, set Maven java version to 8
+
+[33mcommit 3289182cef00c4ea457997cd5ca5e074e182a0db[m
+Author: Ton van Bart <tonvanbart@gmail.com>
+Date:   Tue Nov 29 12:36:54 2016 +0100
+
+    reorganized to Maven project structure
+
+[33mcommit 836a60ee47399f9e28a831d5d0f9aab768ef49ab[m
+Merge: 2c6cb2f 9377d61
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Thu Nov 10 19:04:09 2016 +0100
+
+    Merge pull request #49 from cchamplin/go-package-fix
+    
+    Fix filename of gilded-rose.go
+
+[33mcommit 9377d612dab8326b1cfa63afffa45ad0d13195b1[m
+Author: Caleb Champlin <caleb.champlin@gmail.com>
+Date:   Mon Nov 7 15:51:40 2016 -0500
+
+    Fix filename of gilded-rose.go
+
+[33mcommit 2c6cb2fd37a88d4eefdc787cf2f39e7a40b30200[m
+Merge: fafdb06 1d3a8d8
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Fri Oct 28 07:46:58 2016 +0200
+
+    Merge pull request #48 from maciek2w/swift-package
+    
+    Moved Swift code into package
+
+[33mcommit 1d3a8d887e0bc1bad3de59b9c132d900063c3450[m
+Author: Maciej Witaszek <mwitaszek@dminc.com>
+Date:   Thu Oct 27 13:08:11 2016 +0700
+
+    Moved Swift code into package
+
+[33mcommit fafdb067bbbfe2d2567120ef550591dcba3384dc[m
+Merge: 0f4b6a3 9eeef24
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Mon Oct 17 07:37:48 2016 +0200
+
+    Merge pull request #47 from lermannen/elixir
+    
+    Proposed fix for #34: Implement a working version of the original code for the kata
+
+[33mcommit 9eeef2450fd1c2f0292a70422994db59e7ac0041[m
+Author: Alexander Korling <lermannen@gmail.com>
+Date:   Sat Oct 15 16:51:48 2016 +0200
+
+    Implement a working version of the original code for the kata
+    
+    Why:
+     - The current version isn't implemented properly.
+    
+    Additional information:
+     - This is the result of my local test run (test omitted since
+       they're a part of the kata):
+    
+       GildedRoseTest
+         * test update_quality/1 Aged Brie actually increases in Quality
+           the older it gets
+         * test Backstage passes Quality increases by 2 when there are
+           10 days or less
+         * test update_quality/1 the quality of an item is never negative
+         * test update_quality/1 degrades the quality when a day passes
+         * test Backstage passes Quality increases by 3 when there are 5
+           days or less
+         * test update_quality/1 when sell date is passed it degrades twice
+           as fast
+         * test Backstage passes Quality increases by 1 when sell_in is
+           larger than 10
+         * test update_quality/1 does not change the name
+         * test update_quality/1 The Quality of an item is never more than 50
+         * test update_quality/1 Sulfuras, being a legendary item, never has
+           to be sold or decreases in Quality
+         * test Backstage passes Quality drops to 0 after the concert
+    
+       11 tests, 0 failures
+
+[33mcommit 0f4b6a36216daa5b39a2111f565f4bf0e70230ea[m
+Merge: 6fc1236 910e5d8
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Sun Sep 25 19:32:15 2016 +0200
+
+    Merge pull request #46 from rickerbh/swift-fix-test
+    
+    Fixed copy/paste errors in test data
+
+[33mcommit 910e5d8a5972b57b3436d25550beba527b2ea407[m
+Author: Hamish Rickerby <hamish@simplemachines.com.au>
+Date:   Fri Sep 23 15:04:52 2016 +1000
+
+    Fixed copy/paste errors in test data
+    
+    - Fixed copy/paste errors in items
+    - Removed unnecessary comment blocks
+
+[33mcommit 6fc1236e43b166048c54e137641cb82d4550cfbc[m
+Merge: 97ba169 9c63a77
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Thu Sep 22 21:20:29 2016 +0200
+
+    Merge pull request #44 from rickerbh/swift3
+    
+    Updated for Swift 3
+
+[33mcommit 9c63a7732a6047a0c17af5d99e1d32444cdb31f3[m
+Author: Hamish Rickerby <hamish@simplemachines.com.au>
+Date:   Wed Sep 21 20:53:52 2016 +1000
+
+    Updated for Swift 3
+    
+    Process enum has been replaced with CommandLine in Swift 3. Changed main.swift to reflect this.
+
+[33mcommit 97ba169a356185496cd8feda13f5ae682b5bacf7[m
+Merge: 378a111 08a0215
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Mon Aug 29 19:06:40 2016 +0200
+
+    Merge pull request #40 from kiview/spock-gradle
+    
+    Add Java-Spock-Gradle version
+
+[33mcommit 378a1117752766581af35e845953f0e00a68df7c[m
+Merge: cbb9ae1 bfffd04
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Mon Aug 29 19:05:16 2016 +0200
+
+    Merge pull request #42 from mcbeelen/Kotlin
+    
+    Added Kotlin version of the Gilded Rose Kata
+
+[33mcommit bfffd045d2932821500865cd889b3584e6bff297[m
+Author: Marco Beelen (Ximedes) <marco.beelen@ximedes.com>
+Date:   Fri Aug 26 10:58:41 2016 +0200
+
+    Ignored various idea files
+
+[33mcommit f713ff10198d44f0e03ceedeb69ff8e358676e97[m
+Author: Marco Beelen (Ximedes) <marco.beelen@ximedes.com>
+Date:   Fri Aug 26 10:55:09 2016 +0200
+
+    Added Kotlin version of the Gilded Rose Kata
+
+[33mcommit cbb9ae16c43b8194c54a4840fc73965a8eb9c141[m
+Merge: ed764c6 778db32
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Thu Aug 4 08:02:38 2016 +0200
+
+    Merge pull request #41 from danilat/master
+    
+    Little changes to support rspec 3 version
+
+[33mcommit 778db32d9ebf863faa9bffcd3f0ad16a4a54f192[m
+Author: Dani Latorre <dani@danilat.com>
+Date:   Tue Aug 2 15:03:07 2016 +0200
+
+    should syntax is deprecated, changed the first test to expect syntax
+
+[33mcommit 4dead49ba8ace2120cbe70e90a14f8b34063481e[m
+Author: Dani Latorre <dani@danilat.com>
+Date:   Tue Aug 2 15:02:20 2016 +0200
+
+    nested formatter was renamed to documentation
+
+[33mcommit ed764c63888da21d4797f60bbc22a2fcd4a5c79e[m
+Merge: c6cad5b 15a4a24
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Mon Jul 11 08:07:07 2016 +0200
+
+    Merge pull request #28 from brehberg/master
+    
+    Starting code and tests for Gilded Rose Refactoring Kata in ABAP
+
+[33mcommit 08a02157dcc3e4eb07fd2271c3b71b0154d55221[m
+Author: Kevin Wittek <Kevin.Wittek@gdata.de>
+Date:   Tue Jul 5 09:47:02 2016 +0200
+
+    + Add new project with pre-configured Gradle as build tool and Spock as testing framework
+
+[33mcommit c6cad5bf8d6f772bbd6b91c9d1c999674e022b3b[m
+Merge: 0cacfdc 32fb8fd
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Mon Jun 27 19:14:53 2016 +0200
+
+    Merge pull request #37 from mebusw/mebusw-patch-2
+    
+    Correct spelling of Chinese translation
+
+[33mcommit 32fb8fd9b84ee343454d42433c89bb411b97bdb2[m
+Author: Jacky Shen <mebusw@163.com>
+Date:   Mon Jun 27 15:23:25 2016 +0800
+
+    Correct spelling of Chinese translation
+
+[33mcommit e487ebeaf94c2bc6f30a8ead3aee445c3ebd5f6a[m
+Merge: acf452f 0cacfdc
+Author: Jacky Shen <mebusw@163.com>
+Date:   Mon Jun 27 15:17:16 2016 +0800
+
+    Merge pull request #2 from emilybache/master
+    
+    merge from originals
+
+[33mcommit 0cacfdca858b438d94b744dcd6962bd55669aeda[m
+Merge: ebf7487 7cd3990
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Sun Jun 12 20:20:20 2016 +0200
+
+    Merge pull request #36 from holdmann/l10n
+    
+    Added requirements specification in russian language.
+
+[33mcommit 7cd39905b104a12d389d0202f2fc7ff90089c2b4[m
+Author: Sherbakov Oleg <holdmann@yandex.ru>
+Date:   Sat Jun 11 23:53:18 2016 +0400
+
+    Added requirements specification in russian language.
+
+[33mcommit ebf7487c70622ea4a248f86482274b0a764ad66a[m
+Author: emilybache <emily@bacheconsulting.com>
+Date:   Wed Jun 8 07:59:52 2016 +0200
+
+    added C++ cyber-dojo link
+
+[33mcommit 48a71a4799f11c7bcf2b1b33df68fda10236f08a[m
+Merge: 2aa6354 e8446e0
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Sun Jun 5 10:10:12 2016 +0200
+
+    Merge pull request #35 from georgberky/master
+    
+    Common Lisp version by Rainer Joswig
+
+[33mcommit e8446e057ee8c483833d0d6e5a05d1f1da1a3d39[m
+Author: Georg Berky <georg.berky@posteo.de>
+Date:   Thu Jun 2 21:21:32 2016 +0200
+
+    Common Lisp version by Rainer Joswig
+
+[33mcommit 2aa6354e1a66c4be88815f77601d9fab48834b9c[m
+Merge: d9c2f9a 7bf5e95
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Mon May 23 21:34:30 2016 +0200
+
+    Merge pull request #33 from sparsick/master
+    
+    Fix link to blog post
+
+[33mcommit 7bf5e95b5b59c8e5f1735f9451b39b3f08da3b4e[m
+Author: Sandra Parsick <sparsick@users.noreply.github.com>
+Date:   Mon May 23 10:52:28 2016 +0200
+
+    Fix link to blog post
+    
+    see issue #32
+
+[33mcommit d9c2f9a9e516a5a15a9d3e4e3c6ee799c689fdb6[m
+Merge: eb184b0 8f18f8a
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Sun May 15 20:18:49 2016 +0200
+
+    Merge pull request #31 from georgberky/master
+    
+    Gilded Rose for Groovy
+
+[33mcommit 8f18f8a1f9a07ac7799ff393716ce00a27f8910a[m
+Author: Georg Berky <georg.berky@posteo.de>
+Date:   Sat May 14 17:55:42 2016 +0200
+
+    improve instructions for IDEs
+
+[33mcommit f00e363caafb740727b4cfe375990a20e0dcac1b[m
+Author: Georg Berky <georg.berky@posteo.de>
+Date:   Sat May 14 17:31:39 2016 +0200
+
+    Add Groovy sources and IntelliJ project
+
+[33mcommit 15a4a245a724b9a702bd9720eda7804abfdea6e1[m
+Author: Brett Rehberg <developer@brehberg.info>
+Date:   Mon Mar 21 10:57:47 2016 -0500
+
+    starting code and tests for ABAP
+
+[33mcommit 3ee903062511f9b8ac514c2d188f354069cf3011[m
+Author: Brett Rehberg <developer@brehberg.info>
+Date:   Mon Mar 21 10:50:41 2016 -0500
+
+    remove abap source code
+
+[33mcommit eb184b0d5732d445c18bd9798cdc3cbe9a630084[m
+Merge: 17f213d 028e85b
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Sat Mar 19 16:10:45 2016 +0100
+
+    Merge pull request #29 from Pacane/master
+    
+    Code in Dart
+
+[33mcommit 028e85b433feb65674eb224e841d8af9921b8038[m
+Author: Joel Trottier-Hebert <iamquebecois@gmail.com>
+Date:   Fri Mar 18 22:39:31 2016 -0400
+
+    removed pubspec.lock
+
+[33mcommit 63d80b152fb88766dcd97dc9251bb261fce30a9a[m
+Author: Brett Rehberg <developer@brehberg.info>
+Date:   Fri Mar 18 14:56:22 2016 -0500
+
+    starting code and tests for ABAP
+
+[33mcommit fa9e551902f1b5162f499cd1e31aa56c566165dc[m
+Author: Joel Trottier-Hebert <iamquebecois@gmail.com>
+Date:   Mon Feb 29 21:30:33 2016 -0500
+
+    Initial Dart
+
+[33mcommit 17f213d103dd9cd4fb6195a78b714dd840010582[m
+Merge: 149acc5 3d8c1f9
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Sun Jan 31 19:44:20 2016 +0100
+
+    Merge pull request #27 from scalbatty/master
+    
+    Add Swift port
+
+[33mcommit 3d8c1f96bcc92a83d8e2998fc538ffec3d5c455f[m
+Author: Pascal Batty <pascal.batty@soat.fr>
+Date:   Tue Jan 26 15:13:15 2016 +0100
+
+    Add Swift port
+
+[33mcommit 149acc5a7731575873ab663d12be3cd07a09f831[m
+Merge: 03a51ec 1599d45
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Mon Jan 25 21:48:59 2016 +0100
+
+    Merge pull request #26 from xpepper/master
+    
+    Update URL for a blogpost linked in the README
+
+[33mcommit 1599d45f689334d26541e7d4a97998bb80b4ecab[m
+Author: Pietro Di Bello <pietro.dibello@xpeppers.com>
+Date:   Mon Jan 25 20:42:55 2016 +0100
+
+    fix typo in requirements
+
+[33mcommit 0201d9ab7db8c519710094f6cdd3eb57b1bc9c44[m
+Author: Pietro Di Bello <pietro.dibello@xpeppers.com>
+Date:   Sun Jan 24 22:58:21 2016 +0100
+
+    Update URL for a blogpost linked in the README
+    
+    Update URL for the "Writing Good Tests for the Gilded Rose Kata" post
+
+[33mcommit 03a51ec27338e6325cf6c81a7eb0c65a313362a9[m
+Author: Emily Bache <emily.bache@pagero.com>
+Date:   Fri Jan 22 16:55:48 2016 +0100
+
+    improved installation instructions
+
+[33mcommit e4dd58880540462ff54485ccb72d1e3c8630e439[m
+Merge: acf452f e19161a
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Mon Dec 7 21:04:13 2015 +0100
+
+    Merge pull request #23 from mebusw/patch-1
+    
+    Create GildedRoseRequirements_zh.txt
+
+[33mcommit e19161a0cb72ae45a3dedb98bf7f21ad2640d1f4[m
+Author: Jacky Shen <mebusw@163.com>
+Date:   Mon Dec 7 23:23:14 2015 +0800
+
+    Create GildedRoseRequirements_zh.txt
+
+[33mcommit acf452f9c9773479e197380b977417eed6f8e498[m
+Merge: 8862a77 cb45ff3
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Mon Oct 26 20:10:47 2015 +0100
+
+    Merge pull request #21 from MiKaDoO/fsharp
+    
+    Add fsharp version
+
+[33mcommit cb45ff3fe7d2d96d598df98818dea548f2cd579c[m
+Author: unknown <mickael.metesreau@gmail.com>
+Date:   Mon Oct 26 13:38:45 2015 +0100
+
+    add fsharp version
+
+[33mcommit 8862a771a58b43f105e6e53df24dc6200b2ece00[m
+Merge: 2235211 bbf8ff7
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Wed Oct 21 21:10:26 2015 +0200
+
+    Merge pull request #19 from ldez/fix/french_translation
+    
+    Fix french translation
+
+[33mcommit 2235211d6f194dc900f6feb0b82afd57dfbd9ff4[m
+Merge: 080ffb7 905f879
+Author: Emily Bache <emily@bacheconsulting.com>
+Date:   Wed Oct 21 21:09:47 2015 +0200
+
+    Merge pull request #20 from ldez/feature/go
+    
+    feat: add go version
+
+[33mcommit 905f87901b199b9e7dac08af8d9e057946f5de2b[m
+Author: Fernandez Ludovic <ludovic.fernandez@zenika.com>
+Date:   Thu Oct 15 21:28:45 2015 +0200
+
+    feat: add go version
+
+[33mcommit bbf8ff798f6e85c320e71a7ce5a468cbf25fc4f8[m
+Author: Fernandez Ludovic <ludovic.fernandez@zenika.com>
+Date:   Thu Oct 15 21:26:38 2015 +0200
+
+    refactor: french specification review
+
+[33mcommit fd9d429f7dfef07f8766107aadfa3e2bdba075f7[m
+Author: Fernandez Ludovic <ludovic.fernandez@zenika.com>
+Date:   Thu Oct 15 21:25:48 2015 +0200
+
+    refactor: change french specification extention
+    
+    - Markdown

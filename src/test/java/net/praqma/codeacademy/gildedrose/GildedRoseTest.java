@@ -11,7 +11,8 @@ public class GildedRoseTest {
         Item[] items = new Item[] { new Item("foo", 0, 0) };
         GildedRose app = new GildedRose(items);
         app.updateQuality();
-        assertEquals("foo", app.items[0].name);
+        assertEquals("foo", app.items[0].name); //i put in a comment AND ANOTHER ONE
+        // AND MORE
     }
 
     @Test

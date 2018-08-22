@@ -19,6 +19,7 @@ node {
             url: 'git@github.com:dajoh16/jenkins-workshop.git']]])
     }
     stage("test"){
+        // run maven tests here
          sh 'docker run -i -v $PWD:/usr/src/mymaven -w /usr/src/mymaven --rm maven:3-jdk-8 mvn test'
     }
     stage("publish"){
