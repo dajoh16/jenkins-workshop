@@ -14,4 +14,13 @@ public class GildedRoseTest {
         assertEquals("foo", app.items[0].name);
     }
 
+    @Test
+    public void testThatFails(){
+        Item[] items = new Item[] {new Item("Sulfuras, Hand of Ragnaros", 2, 200)};
+        GildedRose app = new GildedRose(items);
+        app.updateQuality();
+        assertEquals("Sulfuras, Hand of Ragnaros", app.items[0].name);
+        assertEquals(100,app.items[0].quality);
+    }
+
 }
